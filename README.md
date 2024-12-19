@@ -2,6 +2,8 @@
   <img src="https://github.com/MaximeGDFR/MaximeGDFR/blob/main/LH-pixel-art.png?raw=true" alt="Coucher de soleil Le Havre" style="width:312; height:535"/>
 </a>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=godefroymaxime76&unique={true|1|on|yes})
+
 <h3 align="center">Maxime GDFR</h1>
 <h5 align="center">A passionate frontend studient from 42School Le Havre (French).</h3>
 
