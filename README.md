@@ -3,16 +3,10 @@
 </a>
 
 <h3 align="center">Maxime GDFR</h1>
-<h5 align="center">A passionate frontend studient for 42School Le Havre (French).</h3>
+<h5 align="center">A passionate frontend studient from 42School Le Havre (French).</h3>
 
 <h5 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximegdfr&show_icons=true&locale=en&layout=compact" alt="maximegdfr" /></p>
-
-# <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maximegdfr&show_icons=true&locale=en" alt="maximegdfr" /></p>
-
-// <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maximegdfr&" alt="maximegdfr" /></p>
 
 <h5 align="left">Connect with me:</h3>
 <p align="left">
