@@ -1,5 +1,5 @@
-<a href="ADRESSE PHOTO GITHUB">
-  <img src="ADRESSE PHOTO GITHUB" alt="Coucher de soleil Le Havre" style="width:auto; height:auto"/>
+<a href="https://github.com/MaximeGDFR/MaximeGDFR/blob/main/LH-pixel-art.png?raw=true">
+  <img src="https://github.com/MaximeGDFR/MaximeGDFR/blob/main/LH-pixel-art.png?raw=true" alt="Coucher de soleil Le Havre" style="width:auto; height:auto"/>
 </a>
 
 <h1 align="center">Maxime GDFR</h1>
