@@ -1,5 +1,5 @@
 <a href="https://github.com/MaximeGDFR/MaximeGDFR/blob/main/LH-pixel-art.png?raw=true">
-  <img src="https://github.com/MaximeGDFR/MaximeGDFR/blob/main/LH-pixel-art.png?raw=true" alt="Coucher de soleil Le Havre" style="width:auto; height:auto"/>
+  <img src="https://github.com/MaximeGDFR/MaximeGDFR/blob/main/LH-pixel-art.png?raw=true" alt="Coucher de soleil Le Havre" style="width:400; height:auto"/>
 </a>
 
 <h1 align="center">Maxime GDFR</h1>
