@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://github.com/MaximeGDFR/MaximeGDFR/blob/main/keyboard.png?raw=true" alt="ban" style="width:auto height:auto"/>
 
 <h3 align="center">Maxime GDFR</h1>
 <h5 align="center">A passionate frontend studient from 42School Le Havre (French).</h3>
