@@ -21,5 +21,6 @@
 <h5 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/maxime-gdfr?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxime godefroy" height="30" width="40" /></a>
-<a href="https://discord.gg/mgodefro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mgodefro" height="30" width="40" /></a>
-</p>
+<a href="https://discord.com/users/mgodefro%231234" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Discord-mgodefro%231234-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="mgodefro" height="30" width="auto" />
+</a>
