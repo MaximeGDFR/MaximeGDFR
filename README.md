@@ -1,20 +1,3 @@
-<div style="background-color:black; padding:20px; text-align:left;">
-  <div style="display:flex; gap:5px; margin-bottom:10px;">
-    <div style="width:50px; height:10px; background-color:#ff4d4d;"></div>
-    <div style="width:120px; height:10px; background-color:#a58cff;"></div>
-    <div style="width:100px; height:10px; background-color:white;"></div>
-    <div style="width:140px; height:10px; background-color:#7df9ff;"></div>
-  </div>
-  <div style="display:flex; gap:5px; margin-bottom:10px;">
-    <div style="width:40px; height:10px; background-color:#ff4d4d;"></div>
-    <div style="width:80px; height:10px; background-color:#00ff00;"></div>
-    <div style="width:60px; height:10px; background-color:#7df9ff;"></div>
-  </div>
-  <div style="display:flex; gap:5px; margin-bottom:10px;">
-    <div style="width:100px; height:10px; background-color:#7df9ff;"></div>
-    <div style="width:50px; height:10px; background-color:white;"></div>
-  </div>
-</div>
 
 <h3 align="center">Maxime GDFR</h1>
 <h5 align="center">A passionate frontend studient from 42School Le Havre (French).</h3>
