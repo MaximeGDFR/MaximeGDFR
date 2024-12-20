@@ -3,7 +3,7 @@
 <h3 align="center">Maxime GDFR</h3>
 <h5 align="center">A passionate frontend studient from 42School Le Havre (French). 🇫🇷</h5>
 
-<h5 align="center">*while (!(happiness_peace_love)) {<br>continue_to_search();<br>}<br>🫀</h5>
+<p align="center">*while (!(happiness_peace_love)) {<br>continue_to_search();<br>}<br>🫀</p>
 
 <h5 align="center">Current progression in common core:</h3>
 <p align="center"> <img src="https://github.com/MaximeGDFR/MaximeGDFR/blob/main/libftm.png?raw=true" alt="Libft" width="150" height="150"/> <img src="https://github.com/MaximeGDFR/MaximeGDFR/blob/main/get_next_linem.png?raw=true" alt="GNL" width="150" height="150"/> <img src="https://github.com/MaximeGDFR/MaximeGDFR/blob/main/ft_printfm.png?raw=true" alt="Ft_printf" width="150" height="150"/> </p>
