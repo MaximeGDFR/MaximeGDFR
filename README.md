@@ -5,12 +5,11 @@
 
 <h5 align="center">Current progression in common core:</h3>
 <p align="center">
-  <a href="https://github.com/MaximeGDFR/Libft_42" style="text-decoration: none; border: none;">
-    <img src="https://github.com/MaximeGDFR/MaximeGDFR/blob/main/libftm.png?raw=true" alt="Libft" width="150" height="150"/>
-  </a>
-  <img src="https://github.com/MaximeGDFR/MaximeGDFR/blob/main/get_next_linem.png?raw=true" alt="GNL" width="150" height="150"/>
-  <img src="https://github.com/MaximeGDFR/MaximeGDFR/blob/main/ft_printfm.png?raw=true" alt="Ft_printf" width="150" height="150"/>
+  [![Libft](https://github.com/MaximeGDFR/MaximeGDFR/blob/main/libftm.png?raw=true)](https://github.com/MaximeGDFR/Libft_42)
+  ![GNL](https://github.com/MaximeGDFR/MaximeGDFR/blob/main/get_next_linem.png?raw=true)
+  ![Ft_printf](https://github.com/MaximeGDFR/MaximeGDFR/blob/main/ft_printfm.png?raw=true)
 </p>
+
 
 
 
